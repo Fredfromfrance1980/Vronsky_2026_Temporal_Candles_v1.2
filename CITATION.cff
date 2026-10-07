@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Temporal candles: a calibration map for locating gravitational anomalies in dimensionless clock coordinates"
+authors:
+  - family-names: Vronsky
+    given-names: Frédérick
+    affiliation: "Independent researcher, Toulouse, France"
+    orcid: "https://orcid.org/0009-0003-5719-9604"
+version: "1.2"
+date-released: "2026-10-06"
+doi: 10.5281/zenodo.23193464
+license: CC-BY-NC-SA-4.0
+type: dataset
+keywords:
+  - tests of general relativity
+  - dimensionless analysis
+  - radial acceleration relation
+  - wide binaries
+  - Gaia
+  - pre-registration
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23193464
+    description: "Zenodo deposit, version 1.2"
